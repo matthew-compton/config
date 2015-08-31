@@ -1,0 +1,5 @@
+clr
+echo -e "\nStatus:"
+git status
+echo -e "\nBranches:"
+git branch
